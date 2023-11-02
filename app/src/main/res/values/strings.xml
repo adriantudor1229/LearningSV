@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Learning</string>
+    <string name="app_name">DataBinding</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="like">Like</string>
+    <string name="likes">Likes</string>
+    <string name="profiles_s_avatar">Profiles\'s avatar</string>
 </resources>
